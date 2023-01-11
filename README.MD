@@ -34,9 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rockeat Player é o um protótipo de player de música, nesse projeto você vai encontrar somente a estrutura HTML e estilização. 
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+O Rockeat Player é o um protótipo de player de música, nesse projeto você vai encontrar somente a estrutura HTML e estilização.
 
 ## 🔖 Layout
 
